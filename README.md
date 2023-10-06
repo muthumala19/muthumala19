@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # **Hello, I'm Pasindu Muthumala** 👋
 
-Welcome to my GitHub profile! I'm a Computer Science and Engineering undergraduate student passionate about technology, software development, and problem-solving. This README serves as an introduction to my work and contributions.
+Welcome to my GitHub profile! I'm a Computer Science and Engineering undergraduate from University of Moratuwa, Sri Lanka. I am passionate about technology, software development, and problem-solving. This README serves as an introduction to my work and contributions.
 
 ## About Me
 
