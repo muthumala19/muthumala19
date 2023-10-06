@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmuthumala19&label=Profile%20Views%20%3A&labelColor=%23263759&countColor=%23d9e3f0)](https://github.com/muthumala19)
 # **Hello, I'm Pasindu Muthumala** 👋
 
 Welcome to my GitHub profile! I'm a Computer Science and Engineering undergraduate from University of Moratuwa, Sri Lanka. I am passionate about technology, software development, and problem-solving. This README serves as an introduction to my work and contributions.
@@ -84,7 +84,6 @@ Feel free to reach out if you have any questions or opportunities for collaborat
 
 Thank you for visiting my GitHub profile. I'm excited about the future of technology and the possibilities it holds. Let's connect and build something amazing together!
 
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=github.com/muthumala19)](https://github.com/muthumala19)
 
 
 
